@@ -39,6 +39,10 @@ h3 {
   background-color: dimgray;
 }
 
+#footer {
+  text-align: left;
+}
+
 p {
   font-size: 14px;
 }
