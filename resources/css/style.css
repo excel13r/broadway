@@ -26,7 +26,11 @@ h3 {
 }
 
 .flatiron {
-  background-image: url("./images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+.left {
+  text-align: left;
 }
 
 .footer {
@@ -39,7 +43,7 @@ p {
   font-size: 14px;
 }
 
-li {
+a {
   font-size: 18px;
   color: white;
 }
